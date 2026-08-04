@@ -8,6 +8,38 @@ This project demonstrates the design and implementation strategy for an AI-power
 
 The goal is to support healthcare teams with early identification of high-risk patients, improve care coordination, and enable personalized interventions while maintaining responsible AI principles.
 
+# 👩‍💼 My Role: Healthcare AI Program Manager
+
+As the Healthcare AI Program Manager for this portfolio project, I focused on bridging healthcare operations, artificial intelligence, project management, and technology implementation.
+
+## Key Responsibilities
+
+### Strategic Planning
+- Defined the healthcare problem and AI use case
+- Developed project objectives and implementation roadmap
+- Aligned AI goals with healthcare quality improvement priorities
+
+### Project Management
+- Applied PMP project management principles
+- Managed project phases, stakeholders, risks, and communication strategies
+- Supported successful implementation planning
+
+### Healthcare AI Strategy
+- Designed AI data strategy and machine learning lifecycle approach
+- Considered model validation, fairness, explainability, and governance
+
+### Technology Collaboration
+- Developed AWS cloud architecture considerations
+- Supported understanding of data pipelines, deployment, and monitoring requirements
+
+### Clinical Adoption
+- Designed workflow integration strategies
+- Considered clinician training, adoption, and change management needs
+
+## Professional Perspective
+
+This project demonstrates my ability to connect healthcare administration, project leadership, cloud technology, and responsible artificial intelligence to support digital health transformation.
+
 ---
 
 ## AI Clinical Dashboard Concept
