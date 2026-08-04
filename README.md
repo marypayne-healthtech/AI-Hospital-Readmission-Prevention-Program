@@ -10,6 +10,12 @@ The goal is to support healthcare teams with early identification of high-risk p
 
 ---
 
+## AI Clinical Dashboard Concept
+
+The dashboard below demonstrates how an AI-powered readmission prediction system could support clinicians by identifying high-risk patients, explaining risk factors, and recommending appropriate care interventions.
+
+![AI Clinical Dashboard](assets/clinical-ai-dashboard.png)
+
 # Project Objective
 
 Develop a comprehensive healthcare AI implementation framework covering:
@@ -142,8 +148,4 @@ Future development may include:
 - AI model prototype development
 - Data visualization dashboard
 
-- ## AI Clinical Dashboard Concept
-
-![AI Clinical Dashboard](assets/clinical-ai-dashboard.png)
-- Predictive analytics demonstration
-- Additional healthcare AI use cases
+-
