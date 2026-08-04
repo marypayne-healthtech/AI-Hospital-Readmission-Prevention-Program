@@ -141,5 +141,9 @@ Future development may include:
 
 - AI model prototype development
 - Data visualization dashboard
+
+- ## AI Clinical Dashboard Concept
+
+![AI Clinical Dashboard](assets/clinical-ai-dashboard.png)
 - Predictive analytics demonstration
 - Additional healthcare AI use cases
